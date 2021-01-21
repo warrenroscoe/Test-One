@@ -1,0 +1,67 @@
+Resource Group 	Resource Abbreviation
+Action Group	acg
+Analysis service	ans
+API Connection	api
+API Management	apm
+App registration (SPN)	spn
+Application Gateway	agw
+Application Insights	ais
+Application Service	asr
+Application Service Plan	asp
+Availability Set	avs
+Azure Automation Account	aac
+Azure Function	fun
+Azure Integration Account	aia
+Container Registry	acr
+Cosmos DB name	cdb
+Databricks	dbk
+Data Factory	dfy
+Data lake storage	dls
+Data lake analytics	dla
+ExpressRoute Circuit	epr
+Initiative Definition	pid
+Key Vault	kvl
+Key Vault Value	kvv
+Kubernetes Cluster	k8s
+Load Balancer	lbr
+Log Analytics	lgn
+Logic App	lga
+Logic App Custom Connector	lgc
+Network Security Group	nsg
+Network Security Group Rule	ngr
+On-Premise Data Gateway	odg
+Policy	pol
+Private endpoint	pep
+Public IP address	pip
+Recovery Services Vault	rsv
+Resource Group 	rgp
+Server	
+Server Disk	
+Server Nic	
+Service Bus	asb
+Service Bus Queue	sbq
+Service Bus Topic	sbt
+SQL Database	sqd
+SQL Server	sqs
+Storage Container	stc
+Storage - blob	stb
+Storage - file	stf
+Storage - queue	stq
+Storage - table	stt
+Storage Account	sta
+Subnet	sbn
+Subscription	sub
+Traffic Manager Profile	tmp
+Virtual Gateway	vgw
+Virtual Network	vnt
+Virtual Network Peering	
+Service Account	svc
+Bastion	bst
+Azure Blueprint	abp
+Azure Firewall	afw
+Route Table	rtt
+Route	udr
+Connection	con
+Azure Firewall rule collection	
+IP Group	ipg
+Diagnostic Settings	dgs
